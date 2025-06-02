@@ -5,3 +5,7 @@ https://www.technologyreview.com/2025/02/26/1111790/ai-hype-index-relationships-
 
 # Tools:
 KNIME: https://www.knime.com/
+
+
+# Models:
+Deepseek: https://huggingface.co/deepseek-ai/DeepSeek-R1-0528
